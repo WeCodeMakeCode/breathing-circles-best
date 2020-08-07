@@ -1,0 +1,24 @@
+{
+    "name": "breathing circles best",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "circle ext best": "github:wecodemakecode/circle-ext-best#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.1.5",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
