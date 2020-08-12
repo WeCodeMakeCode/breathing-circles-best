@@ -1,16 +1,16 @@
- 
+ # breathing-circles-best 
+
+This programs demonstrates the MakeCode Arcade Extension breathing-circles-best. The program draws expanding concentric circles, then deletes them in reverse order, creating a breathing effect. The code is simple because of the features of the extension. "Best" in the extension name indicates that it uses [circle-ext-best](../../../circle-ext-best) in the good-better-best extension series. 
+
+## How to Use
+
+Click the link in the About section to the right to open the program in a browser. 
+Button A pauses the program until Button A is pressed again. 
+Button B freezes the current screen as a background and continues breathing.
+Arrow Buttons move the center of the concentric circles creating an artistic effect.
 
 
 > Open this page at [https://wecodemakecode.github.io/breathing-circles-best/](https://wecodemakecode.github.io/breathing-circles-best/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/wecodemakecode/breathing-circles-best** and import
 
 ## Edit this project ![Build status badge](https://github.com/wecodemakecode/breathing-circles-best/workflows/MakeCode/badge.svg)
 
