@@ -9,9 +9,6 @@ Button A pauses the program until Button A is pressed again.
 Button B freezes the current screen as a background and continues breathing.
 Arrow Buttons move the center of the concentric circles creating an artistic effect.
 
-
-> Open this page at [https://wecodemakecode.github.io/breathing-circles-best/](https://wecodemakecode.github.io/breathing-circles-best/)
-
 ## Edit this project ![Build status badge](https://github.com/wecodemakecode/breathing-circles-best/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
